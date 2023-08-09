@@ -6,3 +6,5 @@ This is a dataset of pixel-to-pixel paired night-day images. This dataset contai
 
 ### Sample Images
 ![sample images](https://github.com/isurushanaka/N2D250K/blob/main/Sample%20Images/paired_dataset-v.png?raw=true)
+<img src="https://github.com/isurushanaka/N2D250K/blob/main/Sample%20Images/paired_dataset-v.png?raw=true"  width="60%" height="30%">
+
