@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Lakmal"
+  given-names: "H.K.I.S."
+  orcid: "https://orcid.org/0000-0001-6363-2097"
+- family-names: "Dissanayake"
+  given-names: "M.B."
+title: "N2D250K Dataset"
+version: 1.0.0
+date-released: 2022-11-14
+url: "https://github.com/isurushanaka/N2D250K"
